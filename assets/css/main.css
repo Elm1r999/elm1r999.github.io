@@ -77,9 +77,9 @@ input, select, textarea {
 	}
 
 	html {
-		background-color: goldenrod; /* #313a3d */
+		background-color: white;
 		background-attachment: fixed,						fixed;
-		 background-image: url("images/overlay.png"), url("../../images/pic3.jpg"); /* */
+		 background-image: url("images/overlay.png"), url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/221808/sky.jpg"); /* for local images => ../../images/pic1.jpg */
 		background-position: top left,					center center;
 		background-repeat: repeat,						none;
 		background-size: auto,						cover;
